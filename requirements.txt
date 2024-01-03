@@ -1,5 +1,3 @@
 requests
 python-dotenv
 steam
-time
-re
